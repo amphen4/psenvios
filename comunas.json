@@ -1,0 +1,5 @@
+[
+    { "id_comuna": 1, "nombre": "Santiago", "costo_envio": 3000 },
+    { "id_comuna": 2, "nombre": "Providencia", "costo_envio": 3500 },
+    { "id_comuna": 3, "nombre": "Las Condes", "costo_envio": 4000 }
+]
